@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Rm.
+Back: Abbr. Room.
+END

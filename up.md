@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Up
+Back: —adv. 1 at, in, or towards a higher place or a place regarded as higher, e.g. The north, a capital or a university (up in the air; up in scotland; went up to london; came up in 1989). 2 a to or in an erect or required position or condition (stood it up; wound up the watch). B in or into an active condition (stirred up trouble; the hunt is up). 3 in a stronger or leading position (three goals up; am £10 up; is well up in class). 4 to a specified place, person, or time (a child came up to me; fine up till now). 5 higher in price or value (our costs are up; shares are up). 6 a completely (burn up; eat up). B more loudly or clearly (speak up). 7 completed (time is up). 8 into a compact, accumulated, or secure state (pack up; save up; tie up). 9 out of bed, having risen (are you up yet?; sun is up). 10 happening, esp. Unusually (something is up). 11 (usu. Foll. By before) appearing for trial etc. (up before the magistrate). 12 (of a road etc.) Being repaired. 13 (of a jockey) in the saddle. —prep. 1 upwards and along, through, or into (climbed up the ladder; went up the road). 2 from the bottom to the top of. 3 a at or in a higher part of (is up the street). B towards the source of (a river). —adj. 1 directed upwards (up stroke). 2 of travel towards a capital or centre (the up train). —n. Spell of good fortune. —v. (-pp-) 1 colloq. Start, esp. Abruptly, to speak or act (upped and hit him). 2 raise (upped their prices).  be all up with be hopeless for (a person). On the up (or up and up) colloq. Steadily improving. Up against 1 close to. 2 in or into contact with. 3 colloq. Confronted with (a problem etc.).
+END

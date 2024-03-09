@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Op.
+Back: Abbr. Opus.
+END

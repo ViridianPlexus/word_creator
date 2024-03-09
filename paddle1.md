@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Paddle1
+Back: —n. 1
+END

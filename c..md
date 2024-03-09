@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+C.
+Back: Abbr. Circa.
+END

@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Way
+Back: —n. 1 road, track, path, etc., for passing along. 2 course or route for reaching a place (asked the way to london; the way out). 3 method or plan for attaining an object. 4 style, manner (i like the way you dress). 5 person's chosen or habitual course of action. 6 normal course of events (that is always the way). 7 travelling distance; length traversed or to be traversed. 8 unimpeded opportunity or space to advance (make way). 9 advance in some direction; impetus, progress (under way). 10 being engaged in movement from place to place; time spent in this (on the way home). 11 specified direction (step this way). 12 colloq. Scope or range. 13 line of occupation or business. 14 specified condition or state (things are in a bad way). 15 respect (is useful in some ways). 16 (in pl.) Part into which a thing is divided (split it three ways). 17 (in pl.) Structure of timber etc. Down which a new ship is launched. —adv. Colloq. Far (way off).  by the way incidentally. By way of 1 by means of. 2 as a form of. 3 passing through. Come one's way become available to one. Get out of the (or my etc.) Way stop obstructing a person. Go out of one's way make a special effort. In a way to some extent. In the (or one's) way forming an obstruction. Lead the way act as guide or leader. Look the other way ignore what one should notice. On the (or one's) way 1 in the course of a journey etc. 2 having progressed. 3 colloq. (of a child) conceived but not yet born. On the way out colloq. Going out of fashion or favour. Out of the way 1 no longer an obstacle. 2 disposed of. 3 unusual. 4 (of a place) remote. [old english]
+END

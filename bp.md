@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Bp
+Back: abbr. 1 boiling-point. 2 blood pressure. 3 before the present (era). 4 british petroleum. 5 british pharmacopoeia.
+END

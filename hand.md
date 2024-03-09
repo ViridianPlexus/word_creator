@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Hand
+Back: —n. 1 a end part of the human arm beyond the wrist. B (in other primates) end part of a forelimb. 2 a (often in pl.) Control, management, custody, disposal (is in good hands). B agency or influence (suffered at their hands). C share in an action; active support (had a hand in it; give me a hand). 3 thing like a hand, esp. The pointer of a clock. 4 right or left side or direction relative to a person or thing. 5 a skill (has a hand for making pastry). B person skilful in some respect. 6 person who does or makes something, esp. Distinctively (picture by the same hand). 7 person's writing or its style. 8 person etc. As a source (at first hand). 9 pledge of marriage. 10 manual worker, esp. At a factory or farm; member of a ship's crew. 11 a playing-cards dealt to a player. B round of play. 12 colloq. Burst of applause. 13 unit of measure of a horse's height, 4 inches (10.16 cm). 14 forehock of pork. 15 (attrib.) A operated by or held in the hand (hand-drill). B done by hand, not machine (hand-knitted). —v. 1 (foll. By in, to, over, etc.) Deliver; transfer by hand or otherwise. 2 colloq. Give away too readily (handed them the advantage).  all hands entire crew or workforce. At hand 1 close by. 2 about to happen. By hand 1 by a person, not a machine. 2 delivered privately, not by post. From hand to mouth satisfying only one's immediate needs. Get (or have or keep) one's hand in become (or be or remain) in practice. Hand down 1 pass ownership or use of to a later generation etc. 2 a transmit (a decision) from a higher court etc. B us express (an opinion or verdict). Hand it to colloq. Award deserved praise to. Hand on pass (a thing) to the next in a series. Hand out 1 serve, distribute.
+END

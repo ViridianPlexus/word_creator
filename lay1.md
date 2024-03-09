@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Lay1
+Back: —v. (past and past part. Laid) 1 place on a surface, esp. Horizontally or in the proper or specified place. 2 put or bring into the required position or state (lay carpet). 3 make by laying (lay foundations). 4 (often absol.) (of a hen bird) produce (an egg). 5 cause to subside or lie flat. 6 (usu. Foll. By on); attribute or impute (blame etc.). 7 prepare or make ready (a plan or trap). 8 prepare (a table) for a meal. 9 arrange the material for (a fire). 10 put down as a wager; stake. 11 (foll. By with) coat or strew (a surface). 12 slang offens. Have sexual intercourse with (esp. A woman). —n. 1 way, position, or direction in which something lies. 2 slang offens. Partner (esp. Female) in, or act of, sexual intercourse.  lay about one hit out on all sides. Lay aside 1 put to one side. 2 cease to consider. Lay at the door of impute to. Lay bare expose, reveal. Lay claim to claim as one's own. Lay down 1 put on a flat surface. 2 give up (an office). 3 formulate (a rule). 4 store (wine) for maturing. 5 sacrifice (one's life). Lay (one's) hands on obtain, locate. Lay hands on seize or attack. Lay hold of seize. Lay in provide oneself with a stock of. Lay into colloq. Punish or scold harshly. Lay it on thick (or with a trowel) colloq. Flatter or exaggerate grossly. Lay low overthrow or humble. Lay off 1 discharge (unneeded workers) temporarily; make redundant. 2 colloq. Desist. Lay on 1 provide. 2 impose. 3 inflict (blows). 4 spread on (paint etc.). Lay open 1 break the skin of. 2 (foll. By to) expose (to criticism etc.). Lay out 1 spread out, expose to view. 2 prepare (a corpse) for burial. 3 colloq. Knock unconscious. 4 arrange (grounds etc.) According to a design.
+END

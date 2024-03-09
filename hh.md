@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Hh
+Back: abbr. 1 her or his highness. 2 his holiness. 3 (of pencil-lead) double-hard.
+END

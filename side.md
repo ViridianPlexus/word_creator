@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Side
+Back: —n. 1 a each of the surfaces bounding an object. B vertical inner or outer surface. C such a surface as distinct from the top or bottom, front or back. 2 a right or left part of a person or animal, esp. Of the torso. B left or right half or a specified part of a thing. C (often in comb.) Adjoining position (seaside; stood at my side). D direction (from all sides). 3 a either surface of a thing regarded as having two surfaces. B writing filling one side of a sheet of paper. 4 aspect of a question, character, etc. (look on the bright side). 5 a each of two competing groups in war, politics, games, etc. B cause etc. Regarded as being in conflict with another. 6 a part or region near the edge. B (attrib.) Subordinate, peripheral, or detached part (side-road; side-table). 7 colloq. Television channel. 8 each of the bounding lines of a plane rectilinear figure. 9 position nearer or farther than, or right or left of, a given dividing line. 10 line of descent through one parent. 11 (in full side spin) spin given to a billiard-ball etc. By hitting it on one side. 12 slang cheek; pretensions (has no side about him). —v. (-ding) (usu. Foll. By with) take part or be on the same side.  by the side of 1 close to. 2 compared with. Let the side down embarrass or fail one's colleagues. On one side 1 not in the main or central position. 2 aside. On the … side somewhat (on the high side). On the side 1 as a sideline. 2 illicitly. 3 us as a side dish. Side by side standing close together, esp. For mutual support. Take sides support one or other cause etc. [old english]
+END

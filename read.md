@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Read
+Back: —v. (past and past part. Read) 1 (also absol.) Reproduce mentally or (often foll. By aloud, out, off, etc.) Vocally the written or printed words of (a book, author, etc.). 2 convert or be able to convert into the intended words or meaning (written or other symbols or the things expressed in this way) (can't read music). 3 understand by observing; interpret (read me like a book; read his silence as consent; read my mind; reads tea-leaves). 4 find (a thing) stated in print etc. (read that you were leaving). 5 (often foll. By into) assume as intended or deducible (read too much into it). 6 bring into a specified state by reading (read myself to sleep). 7 a (of a recording instrument) show (a specified figure etc.). B interpret (a recording instrument) (read the meter). 8 convey meaning when read; have a certain wording (it reads persuasively; reads from left to right). 9 sound or affect a hearer or reader when read (the book reads like a parody). 10 study by reading (esp. A subject at university). 11 (as read adj.) Versed in a subject (esp. Literature) by reading (well-read person). 12 (of a computer) copy or transfer (data). 13 hear and understand (over a radio) (are you reading me?). 14 replace (a word etc.) With the correct one(s) (for ‘this’ read ‘these’). —n. 1 spell of reading. 2 colloq. Book etc. As regards readability (is a good read).  read between the lines look for or find hidden meaning. Read up (often followed by on) make a special study of (a subject). Take as read treat (a thing) as if it has been agreed. [old english]
+END

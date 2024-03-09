@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Kt.
+Back: Abbr. Knot.
+END

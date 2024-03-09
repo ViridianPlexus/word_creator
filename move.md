@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Move
+Back: —v. (-ving) 1 (cause to) change position or posture. 2 put or keep in motion; rouse, stir. 3 a take a turn in a board-game. B change the position of (a piece) in a board-game. 4 (often foll. By about, away, off, etc.) Go or proceed. 5 take action, esp. Promptly (moved to reduce crime). 6 make progress (project is moving fast). 7 (also absol.) Change (one's home or place of work). 8 (foll. By in) be socially active in (a specified group etc.) (moves in the best circles). 9 affect (a person) with (usu. Tender) emotion. 10 (foll. By to) provoke (a person to laughter etc.) (was moved to tears). 11 (foll. By to, or to + infin.) Prompt or incline (a person to a feeling or action). 12 (cause to) change one's attitude (nothing can move me on this issue). 13 a cause (the bowels) to be evacuated. B (of the bowels) be evacuated. 14 (often foll. By that) propose in a meeting, etc. 15 (foll. By for) make a formal request or application. 16 sell; be sold. —n. 1 act or process of moving. 2 change of house, premises, etc. 3 step taken to secure an object. 4 a changing of the position of a piece in a board-game. B player's turn to do this.  get a move on colloq. Hurry up. Make a move take action. Move along (or on) advance, progress, esp. To avoid crowding etc. Move away go to live in another area. Move heaven and earth (foll. By to + infin.) Make extraordinary efforts. Move in 1 take up residence in a new home. 2 get into a position of readiness or proximity (for an offensive action etc.). Move in with start to share accommodation with (an existing resident). Move out leave one's home. Move over (or up) adjust one's position to make room for another. On the move moving. [latin moveo]
+END

@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Sit
+Back: v. (-tt-; past and past part. Sat) 1 support the body by resting the buttocks on the ground or a seat etc. 2 cause to sit; place in a sitting position. 3 a (of a bird) perch or warm the eggs in its nest. B (of an animal) rest with the hind legs bent and the buttocks on the ground. 4 (of a committee etc.) Be in session. 5 (usu. Foll. By for) pose (for a portrait). 6 (foll. By for) be a member of parliament for (a constituency). 7 (often foll. By for) take (an examination). 8 be in a more or less permanent position or condition (left sitting in rome; parcel sitting on the doorstep). 9 (of clothes etc.) Fit or hang in a certain way. 10 babysit.  be sitting pretty be comfortably placed. Sit at a person's feet be a person's pupil. Sit back relax one's efforts. Sit down 1 sit after standing. 2 cause to sit. 3 (foll. By under) submit tamely to (an insult etc.). Sit in 1 occupy a place as a protest. 2 (foll. By for) take the place of. 3 (foll. By on) be present as a guest or observer at (a meeting etc.). Sit in judgement be censorious or self-righteous. Sit on 1 be a member of (a committee etc.). 2 hold a session or inquiry concerning. 3 colloq. Delay action about. 4 colloq. Repress, rebuke, or snub. Sit on the fence remain neutral or undecided. Sit out 1 take no part in (a dance etc.). 2 stay till the end of (esp. An ordeal). 3 sit outdoors. Sit tight colloq. 1 remain firmly in one's place. 2 not yield. Sit up 1 rise from lying to sitting. 2 sit firmly upright. 3 go to bed late. 4 colloq. Become interested or aroused etc. Sit well on suit or fit. [old english]
+END

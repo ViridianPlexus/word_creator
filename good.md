@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Good
+Back: —adj. (better, best) 1 having the right or desired qualities; adequate. 2 a (of a person) efficient, competent (good at french; good driver). B effective, reliable (good brakes). 3 a kind. B morally excellent; virtuous (good deed). C well-behaved (good child). 4 enjoyable, agreeable (good party; good news). 5 thorough, considerable (a good wash). 6 a not less than (waited a good hour). B considerable in number, quality, etc. (a good many people). 7 beneficial (milk is good for you). 8 a valid, sound (good reason). B financially sound (his credit is good). 9 in exclamations of surprise (good heavens!). 10 (sometimes patronizing) commendable, worthy (good old george; my good man). 11 in courteous greetings and farewells (good morning). —n. 1 (only in sing.) That which is good; what is beneficial or morally right (only good can come of it; what good will it do?). 2 (in pl.) A movable property or merchandise. B things to be transported. C (prec. By the) colloq. What one has undertaken to supply (esp. Deliver the goods). —adv. Us colloq. Well (doing pretty good).  as good as practically. Be (a certain amount) to the good have as net profit or advantage. For good (and all) finally, permanently. Good for 1 beneficial to; having a good effect on. 2 able to perform. 3 able to be trusted to pay. Good riddance see *riddance. Have the goods on a person slang have information about a person giving one an advantage over him or her. In good faith with honest or sincere intentions. In good time 1 with no risk of being late. 2 (also all in good time) in due course but without haste. To the good having as profit or benefit. [old english]
+END

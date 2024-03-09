@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Pr.
+Back: Abbr. Pair.
+END

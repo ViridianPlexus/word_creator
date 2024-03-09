@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Pd.
+Back: Abbr. Paid.
+END

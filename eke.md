@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Eke
+Back: v. (eking)  eke out 1 supplement (income etc.). 2 make (a living) or support (an existence) with difficulty. [old english]
+END

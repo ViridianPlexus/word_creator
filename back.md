@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Back
+Back: —n. 1 a rear surface of the human body from shoulder to hip. B upper surface of an animal's body. C spine (broke his back). D keel of a ship. 2 backlike surface (back of the head, chair, shirt). 3 reverse or more distant part (back of the room; sat in the back; write it on the back). 4 defensive player in football etc. —adv. 1 to the rear (go back a bit; looked back). 2 in or into a previous state, place, or time (came back; put it back; back in june). 3 at a distance (stand back). 4 in return (pay back). 5 in check (hold him back). —v. 1 a give moral or financial support to. B bet on (a horse etc.). 2 (often foll. By up) move backwards. 3 a put or serve as a back, background, or support to. B mus. Accompany. 4 lie at the back of (beach backed by cliffs). 5 (of the wind) move anticlockwise. —adj. 1 situated to the rear; remote, subsidiary (back teeth). 2 past; not current (back pay; back issue). 3 reversed (back flow).  back and forth to and fro. Back down withdraw from confrontation. The back of beyond very remote place. Back off 1 draw back, retreat. 2 = back down. Back on to have its back adjoining (backs on to a field). Back out (often foll. By of) withdraw from a commitment. Back-pedal reverse one's action or opinion. Back to back with backs adjacent and facing each other (stood back to back). Back up 1 give (esp. Moral) support to. 2 computing make a backup of (data, a disk, etc.). Get (or put) a person's back up annoy a person. Get off a person's back stop troubling a person. Turn one's back on abandon; ignore.  backer n. (in sense 1 of v.). Backless adj. [old english]
+END

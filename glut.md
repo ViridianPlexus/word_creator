@@ -1,0 +1,8 @@
+TARGET DECK
+ENGLISH
+
+START
+Basic
+Glut
+Back: —v. (-tt-) 1 feed (a person, one's stomach, etc.) Or indulge (a desire etc.) To the full; satiate. 2 fill to excess. 3 overstock (a market). —n. 1 supply exceeding demand. 2 full indulgence; surfeit. [french gloutir swallow: related to *glutton]
+END
